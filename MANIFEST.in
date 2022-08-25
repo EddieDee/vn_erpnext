@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include berenice *.css
+recursive-include berenice *.csv
+recursive-include berenice *.html
+recursive-include berenice *.ico
+recursive-include berenice *.js
+recursive-include berenice *.json
+recursive-include berenice *.md
+recursive-include berenice *.png
+recursive-include berenice *.py
+recursive-include berenice *.svg
+recursive-include berenice *.txt
+recursive-exclude berenice *.pyc

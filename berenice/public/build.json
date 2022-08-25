@@ -1,0 +1,5 @@
+{
+    "berenice/js/berenice.min.js": [
+	"public/js/point_of_sales_custom.js"
+    ]
+}
