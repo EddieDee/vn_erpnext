@@ -1,7 +1,7 @@
 [
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Purchase Invoice", 
   "modified": "2018-10-25 13:01:32.146704", 
   "name": "Purchase Invoice-Client", 
@@ -10,7 +10,7 @@
  }, 
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Customer", 
   "modified": "2018-11-15 17:33:45.894418", 
   "name": "Customer-Client", 
@@ -19,7 +19,7 @@
  }, 
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Stock Entry", 
   "modified": "2018-08-24 09:40:30.102426", 
   "name": "Stock Entry-Client", 
@@ -28,7 +28,7 @@
  }, 
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Item", 
   "modified": "2018-06-01 12:05:06.632205", 
   "name": "Item-Client", 
@@ -37,7 +37,7 @@
  }, 
  {
   "docstatus": 0, 
-  "doctype": "Custom Script", 
+  "doctype": "Client Script", 
   "dt": "Sales Invoice", 
   "modified": "2018-11-16 09:56:45.539131", 
   "name": "Sales Invoice-Client", 
